@@ -65,4 +65,4 @@ subplot(1,3,3);imshow(I2);title('手写方法');
 ```
 
 ## 效果显示
-![](https://github.com/ColinAce/Digital-Image-Processing/blob/main/pic/histed.png)
+![](https://github.com/ColinAce/Digital-Image-Processing/blob/main/pic/histeq.png)
