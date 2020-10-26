@@ -4,7 +4,7 @@ Basic algorithms exercise for digital image processing
 
 | # | Algorithms | Solution |
 |---| ---------- | -------- |
-|1|MyImageStretch(图像放大缩小)| [Matlab](./ImageProcessing/MyImageStretch.md)|
+|1|MyImageZoomh(图像放大缩小)| [Matlab](./ImageProcessing/MyImageZoom.md)|
 |2|rotateImg(图像旋转)| [Matlab](./ImageProcessing/rotateImg.md)|
 |3|myimhisteq(直方图均衡化)| [Matlab](./ImageProcessing/myimhisteq.md)|
 |4|myHistMatch(直方匹配)| [Matlab](./ImageProcessing/myHistMatch.md)|
