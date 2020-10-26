@@ -14,3 +14,4 @@
         有两个变量的插值函数的线性插值扩展，其核心思想是在两个方向分别进行一次线性插值。
 
 ```
+![](https://github.com/ColinAce/Digital-Image-Processing/blob/main/pic/interpolate.png)
